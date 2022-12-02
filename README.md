@@ -7,7 +7,7 @@ Minhas principais ferramentas de trabalho são:\
 -VBA;\
 -Excel;\
 -Power Query;\
--Power Automate;\
+-Power Automate;
 
 <!---
 Luaks02/Luaks02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
